@@ -1,0 +1,1938 @@
+Homebrew 1873248 v0.3.4 | - Fixed issue with icons not being loaded, removing an application from the queue bug and updated meta.xml handling when updating HBB
+szigoy 1206467039 832 1258104 elf 634095 0 0 ws
+Szigoy
+dsbomb
+1.0
+1259302
+Pong for the insane
+A simple pong-type game for the Nintendo Wii or Gamecube.
+sandtraps 1251293812 4914 604032 dol 351777 0 0 ws /apps/sandtraps/levels;/apps/sandtraps/levels/tutorials
+Sand Traps
+Uffe Flarup
+1.0
+1741881
+Puzzle/platform game
+Twist your wiimote to guide the sand towards the exit and avoid the traps on the board!
+plusoumoins 1251107860 1263 660640 dol 401021 0 0 wws /apps/plusoumoins/image;/apps/plusoumoins/langue
+Plusoumoins
+Crazygoth
+0.5
+693906
+Find the mystery numbers
+Find the mystery numbers
+robo_tank 1250342279 14443 890656 dol 10880190 0 0 ws /apps/robo_tank/bg;/apps/robo_tank/bgm;/apps/robo_tank/fnt;/apps/robo_tank/saves;/apps/robo_tank/sfx;/apps/robo_tank/sp
+Robo tank
+Copete23
+0.6.8
+11672263
+Destroy tanks
+The world is being conquered by the evil of Warlior and and his army of tanks, the only hope is you, a brave warrior who at the controls of a super tank will have to face to face the dreaded Warlior.
+quadrax 1249798698 12538 1537632 dol 23633186 0 0 ws /apps/quadrax/data;/apps/quadrax/data/graphic;/apps/quadrax/data/graphic/lhlps;/apps/quadrax/data/rooms;/apps/quadrax/data/sounds
+Quadrax Wii
+Slappy
+0.2
+48096505
+The Secrets of Pyramid 
+Quadrax is logical game game where msmore than keen reactions you will need fast fingers and will have to use all your grey brain cells. :-) Just only that way you can succeed in solving all the ninety levels, which the game has.
+pomwii 1249468031 7405 221152 dol 113114 0 0 ws
+pomwii
+Silver.nux
+1.2
+228974
+A mystery number game
+A mystery number game, simply press the + or - to discover the mystery
+ShootMii 1250823383 11235 1324800 dol 723443 0 0 ws
+ShootMii
+denisgeorge666
+0.8.8
+1336406
+Wii Tank game
+A Wii Tank shooting game
+Liqwiid_Wars 1251126194 945 304608 dol 147629 0 0 ws
+Liqwiid Wars
+steaky & silus
+0.2.6
+306031
+Liqwiid Wars for the Wii
+A complete rewrite of Liquid Wars - using the game and   conversations with Christian Mauduit as sources. Use the wiimote to control the 4 armies.
+ChunkMunch 1250951776 8223 1331552 dol 1787230 0 0 wwwws /apps/ChunkMunch/ExampleSkin;/apps/ChunkMunch/SouthPark;/apps/ChunkMunch/WingedVayla
+ChunkMunch
+Freezy
+0.6c
+2744133
+Munch the Chunks
+Point and click adventure! Can you munch it all?
+ChatNoirWii 1249724992 13166 1292960 dol 831505 0 0 ws
+Chat Noir Wii
+Ninchenfan
+0.3
+1325094
+Circle The Cat
+Chat Noir Wii - A simple board game for the Wii. Don't let the cat escape! It is a clone of Chat Noir by Gamedesign.jp
+wiidoubledown 1249480148 9920 2233376 dol 1746598 0 0 ws
+Wii Double Down
+mdbrim
+1.2
+2243679
+Black Jack for the Wii
+A simple black jack game/trainer for the Wii.
+BBPRO 1248505068 14344 6922784 dol 6481260 0 0 ws
+Balance Board Pro
+Paul Craven
+1.1
+6938309
+"Weigh" cool tools!
+A full-featured toolset for use with the Wii Balance Board which include Calibrattion of the scale, Fine-tuner button to lock onto precise readings, three precise dynamic weighing modes, etc.
+senet 1247202080 8251 2123251 elf 1724593 0 0 wws
+Senet
+pedrocrespo
+0.05b
+2132052
+Egyptian Ancient Board Game
+Senet is a board game from ancient Egypt, is the oldest board game whose ancient existence has been confirmed, dating to circa 3500 BC. Play it and you'll understand why Tutankhamen has two senet gameboards inside his tomb!
+PostEm 1243782747 8259 1526656 dol 1314174 0 0 ws
+Post'Em
+ES&ZB
+0.0.01Beta12
+1535591
+Questions on post-its
+Questions on post-its
+OpenJazz 1248173254 2066 1077376 dol 1943414 0 0 ws
+OpenJazz
+Alister, tehpola
+1.0
+4427866
+Open source Jazz Jackrabbit
+OpenJazz-Wii is a port of OpenJazz by Alister. Special thanks to the developers of SDL-Wii for making this a breeze to port.
+supertux 1246275242 6476 1577792 dol 8504600 0 0 wkcns /apps/supertux/data;/apps/supertux/data/images;/apps/supertux/data/levels;/apps/supertux/data/music;/apps/supertux/data/sounds;/apps/supertux/data/images/background;/apps/supertux/data/images/icons;/apps/supertux/data/images/shared;/apps/supertux/data/images/status;/apps/supertux/data/images/tilesets;/apps/supertux/data/images/title;/apps/supertux/data/images/worldmap;/apps/supertux/data/levels/bonus1;/apps/supertux/data/levels/bonus2;/apps/supertux/data/levels/misc;/apps/supertux/data/levels/world1;/apps/supertux/data/levels/worldmaps
+SuperTux Wii
+scanff
+1.0
+16056229
+Port of SuperTux
+Port of SuperTux for the Wii
+meritous 1246320015 14087 1280128 dol 3100811 0 0 wkcgs /data;/data/meritous;/data/meritous/dat;/data/meritous/dat/a;/data/meritous/dat/d;/data/meritous/dat/i;/data/meritous/dat/m
+Meritous
+Lancer-X/ASCEAI
+1.2 R2
+4503702
+Dungeon crawl game
+Far below the surface of the planet is a secret. A place of limitless power. Those that seek to control such a utopia will soon bring an end to themselves.                       
+Achtung_Wii_Kurve 1250906597 13267 1806272 dol 1300638 0 0 wwwwncgs
+Achtung Wii Kurve
+profetylen
+1.1a
+1820676
+Watch out for the curve
+Achtung Wii Kurve is a clone of the computer game Achtung Die Kurve. It differs in that it has alot of customization- and control options and actually includes music and sounds.
+WiiSPACE 1247464170 569 1573376 dol 794439 0 0 wwwwgncs
+WiiSPACE
+Seiken
+1.2a
+1575464
+Shoot-'em-up in space
+An original retro-themed spaceship shoot-'em-up supporting up to 4 simultaneous players for co-operative play. Features include powerups, bosses, high scores, and an aiming system allowing independent movement and targeting.
+GuitarsOnFire 1247146356 17534 1045472 dol 2357329 0 0 wgks /guitarsonfire;/guitarsonfire/songs;/guitarsonfire/sfx;/guitarsonfire/gfx;/guitarsonfire/stage;/guitarsonfire/stage/Guitarfun;/guitarsonfire/stage/Guitars On Fire;/guitarsonfire/stage/Mario
+GuitarsOnFire
+Daid
+0.8
+4416876
+Guitar Hero alike game
+This is a Guitar Hero clone made specially for the Wii. Place songs in /guitarsonfire/songs/.
+cdogs-sdl 1244480026 3348 1381344 dol 908594 0 0 wwcs
+C-Dogs SDL
+insin
+0.4.1-1
+1869479
+Arcade shoot-em-up
+C-Dogs is an arcade shoot-em-up which lets players work alone and cooperatively during missions or fight against each other in the "dogfight" deathmatch mode.
+TWIST 1244044400 4186 5855264 dol 1551061 0 0 ws
+TWIST
+darrenm
+0.0.01
+5860854
+A Space Adventure
+Mission one of your quest is ready. This first version is just a preview. I've not created any levels yet so you just have this first test level... but it's still fun, and quite tricky!  Twist your ship around space clearing up all the junk. 
+X_O 1244009266 4246 680768 dol 413603 0 0 ws
+X and O
+SAL3000
+1.0
+685900
+A Tic Tac Toe game
+X and O is a Tic-Tac-Toe game for the Nintendo Wii. It was programmed in C++ using devkitPro along with GRRLIB. It's main purpose isn't only for fun, but for letting others learn from the source.
+bugiin 1246450074 24818 4262889 elf 1319614 0 0 ws
+bugiin
+brunette_redhead
+1.3
+4291313
+Swat the Bugs!
+Point the Wiimote and press A or B to swat the insects. Watch out for the unswattable gnats and explosions though! Try classic mode for 5 challenging levels, or swarm mode for an endless barrage of bugs!
+CobraArcade 1243734542 18611 4196352 dol 4213769 0 0 ws
+Cobra Arcade
+Troudki/Starky
+0.1 Alpha
+4224365
+Rail Shooting Games
+Rail Shooting Games. Shoot with B.
+pacline 1250669094 2194 669664 dol 406419 0 0 ws /apps/pacline/images
+Pacline
+crazygoth
+1.2
+710025
+Pacman sort of car game
+Pacman sort of car game, collect the dots
+StarPlot 1243770538 1048 6868192 dol 5118367 0 0 ws /apps/StarPlot/data;/apps/StarPlot/data/database;/apps/StarPlot/data/maps;/apps/StarPlot/data/maps/custom;/apps/StarPlot/data/maps/regular
+StarPlot
+Morukutsu
+1.0.0
+6978041
+Adventure in Galaxy
+Move around various small planets. There is no vacuum, you are constantly attracted to the center of the planet! The same goes for your missiles and other items. Therefore you use the gravitational pull of planets wisely.
+StillAliveWii 1243775336 11447 3872864 dol 3351622 0 0 wns /apps/StillAliveWii/customs;/apps/StillAliveWii/maps;/apps/StillAliveWii/replays;/apps/StillAliveWii/txt
+Still Alive Wii
+t4ils
+1.0
+4273630
+2D Portal on your wii
+StillAliveWii is a 2D remake of Valve's Portal game created using GRRLIB. It was first made for Nintendo DS under the name StillAliveDS.
+Tic-Tac-Toe 1243780466 977 699104 dol 467690 0 0 ws
+TicTacToe
+Minishlink
+1.0
+700418
+A retro-style TicTacToe
+Just that simple ! This is a multiplayer game, with 1 or 2 Wiimotes. :)
+projectgmc 1243728704 10565 723648 dol 1351160 0 0 ws /apps/projectgmc/data;/apps/projectgmc/data/bin;/apps/projectgmc/data/bin/materials;/apps/projectgmc/data/bin/units;/apps/projectgmc/data/bin/units/tiles;/apps/projectgmc/data/bin/units/tiles/area1;/apps/projectgmc/data/bin/units/tile;/apps/projectgmc/data/effects;/apps/projectgmc/data/levels;/apps/projectgmc/data/materials;/apps/projectgmc/data/sound;/apps/projectgmc/data/textures;/apps/projectgmc/data/units;/apps/projectgmc/data/units/tiles;/apps/projectgmc/data/units/tiles/area1;/apps/projectgmc/data/units/tiles/set1;/apps/projectgmc/data/units/tiles/set2;/apps/projectgmc/data/units/tiles/train
+Project GMC
+Bertil
+0.11
+3011600
+2.5D platformer
+A simple 2.5D platformer using my own 3D engine. Hold the Wiimote NES-style and just jump and shoot.
+zeRace 1243649448 11821 1370624 dol 8734907 0 0 ws /apps/zeRace/sounds;/apps/zeRace/splashs;/apps/zeRace/sprites;/apps/zeRace/tracks
+ZeRace
+Royale
+0.7
+9542538
+Funny retro racing game
+The purpose of this little car game is very simple: do the best time on each track.
+lightsout 1243335314 10581 3544264 elf 1521544 0 0 ws
+LightsOut
+JigPu
+1.01
+3588521
+Turn off all the lights
+A puzzle game where the objective is to turn off all the lights. Unfortunately, switching off or on any light also affects the surrounding four! Once you get the hang of it, try to minimize the number of moves you make, the time it takes, or increase the difficulty
+powder 1243604496 12974 3565088 dol 987686 0 0 wns
+POWDER
+insin
+111-1
+3578658
+Roguelike
+Descend into the depths of the dungeon until you reach the foul daemon known as "He who the author cannot spell    consistently", or, Baezl'bub.
+bowfishing 1243091108 18572 3673600 dol 2352212 0 0 ws
+Bowfishing Action
+linus
+1.0
+3692830
+Arcade Style Bowfishing
+Enjoy the thrill of pinning a giant carp to the bottom of the river. In what can be described as Duck Hunt meets The Black Bass. Bowfishing Action! combines a fast paced arcade shooter with all the fun of fishing.
+CombatWii 1242983078 14817 4191520 dol 4207380 0 0 wwwwn /apps/CombatWii/maps;/apps/CombatWii/screenshots
+CombatWii
+spiffen
+0.1
+4208074
+Multiplayer tank shooter
+CombatWii is a remake of the classic game Combat that was available on the Atari 2600 system. The game is developed with devkitPro tools and is using GRRLib for rendering, sndlib for music and sound, and wiiuse for wiimote support.
+ItalianTraffic 1242742344 7732 1551392 dol 1318673 0 0 ws
+Italian Traffic
+ElectroKidd
+0.21
+1559461
+Puzzle Game
+Try to let the red car(s) to the exit... Just understand what's mean coming in Italy with a car!
+Hex 1242890906 5857 525952 dol 281528 0 0 ws
+Hex
+Uffe Flarup
+1.0
+532348
+Classical board game
+Hex is a classical 2 player board game originally developed by Piet Hein and John Nash. The objective of the game is to build a connected path between your two sides of the board.
+Freespace2 1242705478 4867 5268800 dol 2332293 0 0 wgcns
+Freespace 2
+litghost
+beta 3
+5277779
+Freespace 2 for the Wii
+There are some minor graphical glitches, and the number of keys are limited on the Wii, but it is quite playable. You must have a copy of Freespace 2 to use this, instructions are on the Google Code Wiki.
+Harmonium 1246973624 8402 3862688 dol 1780649 0 0 ws /Freespace2
+Harmonium
+MetaFight
+v1 beta3
+3873049
+A musical doodling tool
+Harmonium is, to put it plainly, a musical doodling tool. The user can manipulate notes on a 16x16 grid to create melodies within a pentatonic scale. On top of this already addictive concept, you can bring things to life by enabling Conway's Game of Life!
+goblin 1244597592 11183 2317568 dol 1037396 0 0 wns
+Goblin's Cube
+sponters
+1.1.0
+2329219
+A Rubik's Cube game
+A Rubik's Cube game with motion detection interface and online highscore.
+hexxagon 1242232322 4254 3192800 dol 1718488 0 0 wwcgks
+Hexxagon
+Tantric
+1.0
+3884743
+Classic Board Game
+HEXXAGON is an animated game of strategy, loaded with options, in which it is your task to take over as much of the vorld, ah, board as your opponent will allow, whether your opponent is another mere human or our resident noid of unflinching logic, the dauntless CRANIAC.
+sssw 1240968462 12322 13284864 dol 6636323 0 0 ws
+Super Star Shooter Wii
+Ichiroh Satoh
+1.0.0
+13309500
+Shoot those ships
+A technical demonstration of Super Star Shooter. The game is limited to two minutes of gameplay as it's just a playable technical demonstration yet.
+smw-wii 1244037418 9907 2373408 dol 13096317 0 0 wwwwc /smw;/smw/filters;/smw/gfx;/smw/maps;/smw/music;/smw/sfx;/smw/tours;/smw/gfx/packs;/smw/gfx/skins;/smw/gfx/packs/Classic;/smw/gfx/packs/Classic/awards;/smw/gfx/packs/Classic/backgrounds;/smw/gfx/packs/Classic/blocks;/smw/gfx/packs/Classic/eyecandy;/smw/gfx/packs/Classic/fonts;/smw/gfx/packs/Classic/map;/smw/gfx/packs/Classic/menu;/smw/gfx/packs/Classic/modeobjects;/smw/gfx/packs/Classic/modeskins;/smw/gfx/packs/Classic/powerups;/smw/gfx/packs/Classic/projectiles;/smw/maps/cache;/smw/maps/screenshots;/smw/maps/special;/smw/music/Standard;/smw/music/Standard/Menu;/smw/music/Standard/Special;/smw/sfx/announcer;/smw/sfx/packs;/smw/sfx/announcer/Mario;/smw/sfx/packs/Classic
+Super Mario War Wii
+Tantric
+1.2
+20781521
+Port of Super Mario War
+This is a port of Super Mario War to the Wii, using SDL Wii.
+Q1Rev 1240373360 4180 716000 dol 8984662 0 0 wn /ID1
+Q1Rev
+Izhido
+r1
+19410728
+Quake 1 Engine for Wii
+Quake 1 Engine for Wii. Original source code (C) 1996-1997 Id Software, Inc. Modifications (c) 2009 Heriberto Delgado.
+Wolfenstein_3D_Wii 1246585114 14881 1115008 dol 1122164 0 0 w
+Wolfenstein 3D Wii
+MrPeanut
+1.3
+2362879
+Wolfenstein 3D
+Wolfenstein 3D ported to the Wii from the original releases for SNES, PC and Gameboy Advance.
+kidspaint 1243340626 5000 599392 dol 318947 0 0 wwwws
+Kidspaint
+Uffe Flarup
+1.3
+605508
+Painting program for kids
+This painting program can be run in two different modes: Easy mode: For the really small kids. Button usage are not required - just swing the Wiimote to paint on the screen. The color changes automatically every 5 seconds. Normal mode: Press the A or B button to paint.
+komopong_wii 1237988579 4926 1346880 dol 824801 0 0 wws
+Komopong Wii
+copete23
+0.9
+1352654
+Pong for the Wii
+Komopong wii is a game based on the legendary pong, is a way for one player and one for two players, although in the future I would like to add more levels. The main novelty of this pong is to be controlled by moving the Wiimote.
+iiii 1241974046 707 796672 dol 530233 0 0 ww /apps/iiii/images
+iiii
+Yossi
+2.0
+799086
+A connect 4 game
+Play connect 4 against your friend with this idiotically named game.
+DCSS 1237336212 4207 4996928 dol 3455005 0 0 ws /StoneSoup;/StoneSoup/dat;/StoneSoup/dat/clua;/StoneSoup/dat/database;/StoneSoup/dat/descript;/StoneSoup/dat/lua;/StoneSoup/docs;/StoneSoup/docs/obsolete;/StoneSoup/morgue;/StoneSoup/saves;/StoneSoup/saves/db;/StoneSoup/saves/des;/StoneSoup/settings
+Dungeon Crawl Stone Soup
+PaceMaker
+0.4.5-w1
+8028572
+A Rogue-like game
+Dungeon Crawl Stone Soup is a fun, free rogue-like game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest for the mystifyingly fabulous Orb of Zot.
+cubiic 1240297464 1651 1013952 dol 544554 0 0 ws
+Cubiic
+Koopa
+0.1a2
+1017094
+Puzzle Game
+Rubik's cube for the Wii
+bibleQuiz 1236948298 5836 3278976 dol 2307237 0 0 wwwws /apps/bibleQuiz/data;/apps/bibleQuiz/data/d;/apps/bibleQuiz/data/e;/apps/bibleQuiz/data/en;/apps/bibleQuiz/data/fr;/apps/bibleQuiz/data/nl
+bibleQuiz
+wplaat
+0.92
+3413212
+BibleQuiz for Wii
+BibleQuiz is an open-source quiz game. Test your knowlegde about the bible.
+psykotrope 1237118215 10263 788960 dol 490623 0 0 w
+Psykotrope
+NoNameNo
+1.1
+802171
+One player block game
+One player block game. Cross out all the squares.
+SRT 1237479182 11839 1116768 dol 604614 0 0 w
+Shiny Red Tank
+MetaFight
+0.11a
+1129561
+An old-school platformer
+Shiny Red Tank is eventually going to become an old-school platformer including elements from my favorite 8-bit and 16-bit games.  It is in very early stages of development and still has quite a few bugs, but you should be able to get a pretty good idea of the game mechanics.
+SpaceBubble 1236598640 4161 3590528 dol 2471180 0 0 wwwws
+SpaceBubble
+wplaat
+0.90
+3595220
+SpaceBubble for Wii
+SpaceBubble is an open-source game based on the original bubble breaker. Select multiple bubbles with the same color and destroy them, the more you hit in one the higher score you will get.
+RedSquare 1236507336 4380 3871360 dol 2579980 0 0 ws
+RedSquare
+wplaat
+0.91
+3876291
+RedSquare for Wii
+RedSquare is an classic 2D action game. Click and hold the red square. Now, move so that you neither touch the walls nor get hit by any of the blue blocks. If you make it to 31 seconds, you are doing brilliantly!
+WiiQuizz 1243576370 11582 3381024 dol 3408931 0 0 wwwws
+Wii Quizz
+CashMan
+2.1.5
+3413876
+Quiz games delirious
+Wii Quizz is a quiz/puzzle homebrew application. You can play a mode game of your choice: Race to the million or Free mode.
+BlisterBall 1222833874 7952 2322528 dol 290373 0 0 ws
+BlisterBall
+Jon Conrad
+1.0
+2330890
+Remake of Apple][ Blisterball
+This is a remake of the much loved BlisterBall for the Apple ][ computer.
+MyLittleBall 1236253148 15170 2160800 dol 1629099 0 0 ww
+MyLittleBall
+PineCone
+1.0.0
+2179300
+Guide the ball up and up!
+Be the ball. Hold the Wiimote 'normally' (i.e: pointing to the screen) rotate the WiiMote left and right to control the aspiring exclamation mark up and up and up! See how many points you can get, then challenge your friends, family, secret lovers, teachers and co-workers!
+toddtris 1235857436 1256 876960 dol 2205655 0 0 w /apps/toddtris/images;/apps/toddtris/sounds
+Toddtris
+toddy
+1.0
+2665968
+One/Two player block game
+Tetris like game. Hold the wiimotes sideways. Keys are: 1 - rotate anticlockwise / back in menu screens, 2 - rotate clockwise / select in menu screens
+splatter 1235504994 11871 537280 dol 1667051 0 0 w /splatter
+Splatter Castle
+SpiderDave
+20090225
+4095061
+Platform game
+A platform game set in a strange castle.
+YahtzWii 1235430716 2802 1643616 dol 1647551 0 0 wwwws
+YahtzWii
+chris
+1.12
+1648230
+Yahtzee for the Wii
+Yahtzee for the Wii
+mahjongg 1235384482 15838 3867968 dol 3246317 0 0 wws
+MahJongg Wii
+JustWoody
+0.8
+3894889
+MahJongg solitaire for Wii
+MahJongg Wii is a Mahjongg solitaire tiles game written specifically for the Wii, developed with devkitPro tools and using the GRRLib for rendering, sndlib for music and sound, and wiiuse for wiimote.
+madbomber 1235175170 8202 727008 dol 3087532 0 0 ww /apps/madbomber/data;/apps/madbomber/data/images;/apps/madbomber/data/music;/apps/madbomber/data/sounds;/apps/madbomber/data/images/game;/apps/madbomber/data/images/highscore;/apps/madbomber/data/images/options;/apps/madbomber/data/images/title;/apps/madbomber/data/images/game/bomb;/apps/madbomber/data/images/game/bomber;/apps/madbomber/data/images/game/bucket;/apps/madbomber/data/images/game/drop;/apps/madbomber/data/images/game/numbers
+Mad Bomber
+MiniK
+0.2.5
+5481574
+Kaboom Clone
+The Mad Bomber is loose in the city and he's dropping bombs everywhere! It's your job to catch them before they hit the ground and explode. Luckily, you have a set of trusty buckets to extinguish them with.
+teetertorture 1235043328 12225 685792 dol 395723 0 0 w /apps/teetertorture/data;/apps/teetertorture/data/images;/apps/teetertorture/data/music
+Teeter Torture
+MiniK
+2005-10-18
+911180
+Galaga clone with a twist!
+Teeter Torture is a simple shooting game (similar to "Space Invaders", "Galaga" or "Galaxian"), but with a unique twist. Your cannon is sitting atop a teeter totter.
+vectoroids 1234968994 1488 838560 dol 653104 0 0 w
+Vectoroids
+MiniK
+1.1.0
+1225763
+Asteroids Clone
+"Vectoroids" is a clone of the classic arcade game "Asteroids" by Atari. Your objective is to maneuver a space ship within a field of asteroids, and shoot them into smaller and smaller pieces, eventually destroying them completely.
+wiiddash 1235035610 7770 1279168 dol 581368 0 0 w /apps/wiiddash/data
+DoubleDash (Wii)
+BlackWhiteEagle
+0.8
+1302562
+DoubleDash (Wii)
+DoubleDash game - Ported to the WII (Homebrew) by       BlackWhiteEagle (Matz3). Thanks to the homebrewscene, marcan, bushing, devkitpro, sdl, Michal Benes and everyone else.
+pong2 1234872008 3546 2468416 dol 1635792 0 0 ww
+PONG2
+wplaat
+0.98
+2472549
+PONG for Wii
+Pong2 is an open-source game based on the original pong game. This version have improve features. Paddle can be moved horizontal and vertical. Have 10 tracks of nice background music available. The player who first scores 10 points each level is the winner.
+defendguin 1234636970 4453 769600 dol 2129778 0 0 wwcs /apps/defendguin/data;/apps/defendguin/data/images;/apps/defendguin/data/music;/apps/defendguin/data/sounds;/apps/defendguin/data/images/baiter;/apps/defendguin/data/images/bomber;/apps/defendguin/data/images/bullet;/apps/defendguin/data/images/evilbill;/apps/defendguin/data/images/land;/apps/defendguin/data/images/loader;/apps/defendguin/data/images/mutant;/apps/defendguin/data/images/pod;/apps/defendguin/data/images/points;/apps/defendguin/data/images/ship;/apps/defendguin/data/images/status;/apps/defendguin/data/images/swarmer;/apps/defendguin/data/images/title;/apps/defendguin/data/images/tux;/apps/defendguin/data/images/ufo;/apps/defendguin/data/sounds/evilbill;/apps/defendguin/data/sounds/gameover;/apps/defendguin/data/sounds/peng;/apps/defendguin/data/sounds/ship;/apps/defendguin/data/sounds/title;
+Defendguin
+MiniK
+0.11b
+3649856
+Defender Clone
+Defendguin is a clone of the arcade game "Defender," but with a Linux theme. Your mission is to defend little penguinoids from being captured and mutated.
+giddy3 1241223518 11242 659616 dol 3494238 0 0 w /apps/giddy3/hats;/apps/giddy3/onion1;/apps/giddy3/onion2;/apps/giddy3;/apps/giddy3/onion3;/apps/giddy3/onion4;/apps/giddy3/onion5
+Giddy 3
+Peter Gordon
+1.4
+8778103
+Platform/puzzle game
+Simply a great homebrew puzzle game for the Wii! If you enjoy it, you are encouraged to send a PayPal donation to donations@giddy3.co.uk - Design/Graphics/Sounds by Phil Ruston, Programming by Peter Gordon.
+liightsout 1234526054 8254 680256 dol 897591 0 0 w /apps/liightsout/gfx;/apps/liightsout/data
+1iights Out!
+BHSPitMonkey
+1.0 beta 5
+1267175
+"Lights Out" game for the Wii
+Try to turn out all the lights. D-Pad or IR to move. A to select. +/- to switch levels. More instructions available in-game.
+helium 1243729152 13546 859072 dol 3188398 0 0 wn /apps/helium/data;/apps/helium/data/bin;/apps/helium/data/bin/materials;/apps/helium/data/bin/units;/apps/helium/data/bin/units/level1;/apps/helium/data/sound;/apps/helium/data/textures
+Helium Boy
+Bertil
+0.9.1
+6638568
+3d platformer
+A 3D platformer inspired by the classic Nintendo title Balloon Kid. Fly through the level with you helium balloons and collect stars while watching out for birds and flying ninjas.
+Wiibreaker 1233562718 9055 7027328 dol 6877034 0 0 wcsn /apps/Wiibreaker/data
+WiiBreaker
+Arikado
+0.5
+7647872
+Brickbreaker
+Break Bricks forever using a ton of different control options! Now you can make your own levels too!
+syasokoban 1233225818 9434 597088 dol 467238 0 0 w /apps/syasokoban;/apps/syasokoban/data;/apps/syasokoban/data/sokoban;/apps/syasokoban/data/sokoban/levels;/apps/syasokoban/data/sokoban/themes;/apps/syasokoban/data/sokoban/themes/default
+SYASokoban Wii
+Shin-NiL
+0.2
+1561875
+Port of SYASokoban
+Copyright (c) David Joffe - http://grayskygames.com Wii port by Shin-NiL - http://www.shinnil.co.cc. Sokoban was invented in Japan and the original program was written by Hiroyuki Imabayashi.
+wiilander 1238861993 11801 636192 dol 649642 0 0 ws
+WiiLander
+Manny
+0.59
+651104
+Land your ship using wiimote
+Discover the secret word, landing on all the bases. The object of WiiLander is to successfully land your little spacecraft in various places on the planet surface before you run out of fuel. Crashing your lander costs you fuel making it harder to complete your goal.
+santa 1232825850 13598 4452293 elf 23381104 0 0 w /apps/santa/font;/apps/santa/image;/apps/santa/level;/apps/santa/music
+Nowell
+Emvivre and Vash
+1.0
+29957017
+"Sandwiches can't ..."
+You have found this piece of paper in your sandwich two days before Christmas... Take your Flying_Snow_Board and your Cannon to defeat the imposter and save Christmas.
+winterman 1232405512 3538 863584 dol 4360423 0 0 wwww /apps/winterman/Audio;/apps/winterman/maps
+Winterman
+Splyysh
+1.0
+4963300
+Bomberman clone for wii
+Winter themed bomberman kind of game for wii, featuring multiplayer for 8 players.
+adventure 1232287200 6881 1561824 dol 3334208 0 0 w /apps/adventure/data
+Christmas-Type Adventure Time
+mntorankusu
+1.0
+4088293
+Side scroller
+This is a game about a stick-man, who, like most other stick people, likes to run from the start of levels to the end of levels. But, in a daring twist, some weird, mostly-harmless creatures have stolen the christmas music! Get the music back from them!
+HKPractice 1232292854 3970 674240 dol 453211 0 0 ws
+HK Practice
+Mangaman3000
+0.1
+678619
+Hiragana & Katakana Practice
+Practice your basic japanese with this Hiragana/Katakana learning tool
+horrorvacui 1232363052 938 1185984 dol 922437 0 0 wws
+Horror Vacui
+Shaun Inman
+0.04
+1187313
+An 8-bit board game
+Horror Vacui is a two player, card-based abstract strategy board game based on the antiquated notion that "Nature abhors a vacuum."
+supersonicwii 1232267458 9040 4508576 dol 8386129 0 0 wn /data;/data/supersonicwii;/data/supersonicwii/assets;/data/supersonicwii/assets/environment;/data/supersonicwii/assets/gamescene;/data/supersonicwii/assets/menu;/data/supersonicwii/assets/models;/data/supersonicwii/assets/textures;/data/supersonicwii/assets/environment/skyboxes;/data/supersonicwii/assets/environment/skyboxes/blueflash;/data/supersonicwii/assets/environment/skyboxes/clouds;/data/supersonicwii/assets/environment/skyboxes/eclipse;/data/supersonicwii/assets/environment/skyboxes/flare;/data/supersonicwii/assets/environment/skyboxes/greenstrings;/data/supersonicwii/assets/environment/skyboxes/stars;/data/supersonicwii/assets/environment/skyboxes/stellar;/data/supersonicwii/assets/environment/skyboxes/winterfire
+Supersonic Wii : Winter Edition
+AerialX
+0.05
+11788740
+Music-Rhythm Game
+Supersonic Wii is a music rhythm game where the player needs to hit buttons in sync with the music being played.
+jigsaw 1244379404 12603 4072192 dol 3796814 0 0 wwwws
+Arcade Jigsaw
+mdm2k
+0.3
+4090092
+First Person Jigsaw
+Not just another computer jigsaw puzzle! Put the pieces exactly where they go or they head to the back of the queue. You only get to see a few at a time!
+Wii-Tac-Toe 1243777884 24749 789824 dol 814703 0 0 wws
+Wii-Tac-Toe
+Crayon
+0.6
+815053
+Tic-Tac-Toe game
+Wii-Tac-Toe is a Tic-Tac-Toe game for the Nintendo Wii. It was programmed in C++ using devkitPro along with GRRLIB.
+wiicross 1230881432 13298 4361312 dol 4516043 0 0 wg /apps/wiicross/res;/apps/wiicross/res/themes;/apps/wiicross/res/themes/modern;/apps/wiicross/res/themes/paper;/apps/wiicross/res/themes/retro;/apps/wiicross/res/themes/strange
+Piero's Wiicross
+Scognito
+0.2
+5041690
+A picross game for Wii
+Color the blocks according to numbers given at the side of the grid to reveal a hidden picture.
+spaceinvaders 1229751498 694 632416 dol 660927 0 0 w
+Space Invaders
+Felix+Georg
+1.0
+1281371
+Space Invaders
+A clone of the classic Space Invaders game done with SDL.
+dopewars 1229446208 5923 506336 dol 2080763 0 0 w /apps/dopewars/gfx;/apps/dopewars/gfx/Modern;/apps/dopewars/gfx/msg;/apps/dopewars/gfx/Retro
+DopeWars Wii
+Eikon
+1.1
+2332927
+Ported by Eiksoft
+DopeWars Wii is a port of the original game for the Palm OS. This version was chosen for its easy to use point and click interface. DopeWars is a turn-based strategy game in which the player simulates the role of a drug dealer.
+mine_sweeper 1228754132 9177 472032 dol 190045 0 0 wgs
+Minesweeper
+Mangaman3000
+1.3
+481643
+Minesweeper
+A Minesweeper clone by Christopher Wright. Clear the field while avoiding the mines. Now saves scores to SD card.
+LPairs 1228621368 10010 451232 dol 467496 0 0 w /apps/LPairs/gfx
+LPairs
+ThErZA
+1.0
+2864304
+Classical memory game
+LPairs is a classical memory game. This means you have to find pairs of identical cards which will then be removed. Your time and tries needed will be counted but there is no highscore chart or limit to this. Wii port done by ThErZA. Original code by Michael Speck.
+Paradroid 1245599342 2908 1526432 dol 6029367 0 0 w /apps/Paradroid/Data;/apps/Paradroid/Data/data;/apps/Paradroid/Data/images;/apps/Paradroid/Data/images/term;/apps/Paradroid/Data/sounds;/apps/Paradroid/Data/tiles
+Paradroid Wii
+Okachobi
+0.6
+22023290
+Paradroid for the Wii
+A ship in space goes dead.  All attempts to reach it by radio go unanswered. Only droid 999 responds with the brief message, "Death awaits you". You prepare to teleport influence device 001 over to retake control- but what awaits you on the ship?
+WiiDoom 1228179880 10489 1523520 dol 3005237 0 0 wnz /prboom;/prboom/fonts;/prboom/images;/prboom/pwads;/apps/WiiDoom/prboom;/apps/WiiDoom/prboom/fonts;/apps/WiiDoom/prboom/images
+WiiDoom
+lnuxguy
+0.4.1
+6693883
+DOOM for the Wii
+WiiDoom is a DOOM port based on PrBoom.
+magicnumber 1227520870 4557 206464 dol 103661 0 0 ws
+Magic Number
+Stevie G.
+1.0
+211454
+Number guessing game
+Magic Number is a console application for the Wii. Users attempt to guess a randomized number chosen by the Wii. There are 6 levels of difficulty available.
+scogger 1227432756 12590 1087616 dol 820502 0 0 wgs
+Scogger
+Scognito
+0.2
+1101094
+Frog puzzle game
+The goal of the game is to make the frog jump over all the tree trunks. The only available direction the frog can move are forward, left and right (no diagonals), with no jump distance limit! Remember that the frog cannot jump backward! Clean the stage for going to the next level!
+guitarfun 1227340027 2159 1840608 dol 818522 0 0 wwkn /guitarfun;/guitarfun/bitmaps;/guitarfun/songs
+Guitarfun
+Hermes
+3.5
+1898617
+Port of the game Guitarfun
+Copy the 'guitarfun' folder in the root of the SD memory. Add the folders with 'Frets on fire' songs in the 'songs' directory. Add the background and necks bitmaps in the 'bitmaps' directory (see the PDF document).
+aspirin 1227175952 575 431808 dol 225228 0 0 w
+Aspirin
+Guglo
+1.0
+432832
+Dodge lines and eat dots!
+This game is a port of a game I played for the TI-89 calculator. I wrote this game with libOGC, GRRlib, libfat and PNGU. There is no sound so don't get confused by the menu.
+smashing 1226936792 6218 1024800 dol 7172915 0 0 wwz /apps/smashing/models;/apps/smashing/music;/apps/smashing/sounds;/apps/smashing/sprites;/apps/smashing/textures;/apps/smashing/music/ambience;/apps/smashing/music/levels;/apps/smashing/music/menu;/apps/smashing/sprites/font;/apps/smashing/sprites/hud;/apps/smashing/sprites/instructions;/apps/smashing/sprites/menu;/apps/smashing/sprites/menu/ingame;/apps/smashing/sprites/menu/items
+Smashing!
+Warpfish
+1.1
+7934250
+Wii Arcade Shooter
+Smashing! Is a rather posh 3D arcade shooter by warpfish for the wii.
+CosmoRaketti 1226732280 13870 6098304 dol 6995248 0 0 wwww /apps/CosmoRaketti/data;/apps/CosmoRaketti/data/3d;/apps/CosmoRaketti/data/tex
+CosmoRaketti
+Tassu
+1.0
+7412754
+A 3D space shooter
+Guide your spaceship inside futuristic 3D tunnels and shoot everything that comes in your way.
+dungeons 1226728764 7866 6204160 dol 2845008 0 0 ws
+Dungeons
+Iron Hand
+0.85
+6212414
+Dungeons for Wii
+Dungeons is an Mini RPG with some WiiMote support. The aim is to find all red Orbs and battle the last boss.
+matches 1226727282 3232 205216 dol 101757 0 0 ws
+Matches
+Felix+Georg
+1.0
+208827
+Matches Game for the Wii
+A game of drawing matches using console mode only.
+portii 1226636898 7030 8552576 dol 7567233 0 0 wns
+Portii
+Beardface
+1.0
+8560182
+2D Portal for the wii
+As a young companion cube, portii was outcast from Aperture Science, due to his non cube-like form.  After gorging himself on cake in a feat of sadness, Portii has decided to make his way back to the core of Aperture Science and reclaim what that which is rightfully his... More Cake!
+Rokoban 1226660980 12390 653568 dol 690985 0 0 w /apps/Rokoban/res
+Rokoban
+Zalo
+0.8
+1568754
+Sokoban for the Wii
+This is a port of the classic game Sokoban
+KeenWii 1226490742 2263 594560 dol 455159 0 0 w /apps/KeenWii/ep1demo
+Commander Keen Wii
+BigS
+0.9
+1097116
+Commander Keen
+This is an adaptation of Commander Keen DS by Alekmaul, which was itself a adaptation of CloneKeen. See wii.bigs.fr for informations or new release.
+uschtris 1226495757 9354 2482976 dol 443649 0 0 ws
+uschtris
+uschghost
+1.0
+2493167
+Tetris clone with little twists
+This is my entry to the "teh skeen Wii coding competition". It's a simple tetris clone but with some twists.
+ASCII-PONG 1226403514 4648 211136 dol 105528 0 0 ws
+ASCII Pong
+Felix+Georg
+1.0
+216139
+Pong Game
+A game of Pong using console mode only
+yog 1226277340 2775 3366304 dol 3001455 0 0 wwwwgs
+YOG
+PaceMaker
+0.1
+3369896
+Golf imagined by a 3yr old
+YOG - Golf the way a three year old might imagine it.Knock the ball in the hole with Pushers (A) and Bursts (-). If all else fails use the Magnet (B). Score is incremented at the end of the level for each Pusher and Burst left. Score is decremented when the Magnet is used.
+blastguy 1248787068 1822 1252736 dol 788753 0 0 wwww /apps/blastguy/res
+BlastGuy
+TheDrev
+2.0
+2349716
+Bomber game
+Move and put bombs into the map to blast other guys. Between 2 and 4 players.
+WiiShootingGallery 1237769932 4656 1205088 dol 3313775 0 0 wncz /apps/WiiShootingGallery/data
+Wii Shooting Gallery
+Arikado
+1.9
+3820275
+Shooting Games
+Shoot with B. Quit or return to loader with +. Use the Zapper for extra fun!<
+Wiiero 1224337540 15218 590048 dol 325893 0 0 wwn /apps/Wiiero/sprites;/apps/Wiiero/sprites/fx;/apps/Wiiero/sprites/maps;/apps/Wiiero/sprites/others;/apps/Wiiero/sprites/players;/apps/Wiiero/sprites/splash;/apps/Wiiero/sprites/weapons
+Wiiero
+BScrk
+1.1
+924525
+Wiiero, liero on your Wii
+Wiiero is a liero clone for the Wii. This game is a realtime worms-like game between two worms armed with heavy weapons of all kinds battling in underground caves.
+RickDangerous 1225282628 12158 1264704 dol 833385 0 0 ws
+Rick Dangerous
+Gouky/MagicTeam
+1.0
+1277333
+Spiritual son of Indiana
+Rick Dangerous, super hero and part time stamp collector is in dire peril. Armed with his trusty six shooter, a stick and some dynamite.
+WiiPhysics 1225077334 9091 1751008 dol 1257137 0 0 wws
+WiiPhysics
+Beardface
+2.2.0b
+1760653
+Physics for the Wii!
+WiiPhysics is a physics playground for the wii. It was build Using Box2D and libwiisprite.
+FlipEm 1225449811 955 260096 dol 125802 0 0 ws
+FlipEm
+Yossi Rafelson
+0.1
+261745
+A brain puzzle
+FlipEm is a game where the object is to get every square on the board to have an X in it using the least amount of moves. There are some rules, but it is much easier to figure them out while playing, than it is to explain them here.
+quake 1241320438 2959 995008 dol 9124045 0 0 wnzg /apps/quake/ID1
+Quake
+Eluan/Piko
+0.08
+19710032
+Quake port for Wii
+This is a port of Quake to the Wii based on the GameCube Quake port by Peter Mackay.
+fortunes 1223043784 13495 483136 dol 268771 0 0 w /fortunes
+WiiFortune
+raribeir
+0.1
+568143
+A fortune version for Wii
+A fortune version for Wii written from scratch
+gravity 1225449811 3118 359552 dol 186380 0 0 wwwws
+Gravity
+rockybulwinkle
+1.1
+363118
+Universal Gravitation
+Gravity is a multiplayer space shooter that is aimed to be similar to "Gravity Well" by Software Engineering Inc.
+mapmaker 1221901106 14296 270368 dol 145324 0 0 ws
+Map Maker
+Jesse Dubay
+0.1
+286236
+Generate and edit terrain
+Map Maker is a demo application that generates cool-looking terrain that you can edit with the Wiimote.
+jumpnbump 1237963876 5811 780704 dol 608199 0 0 wwww /apps/jumpnbump
+Jump 'n Bump
+Amarth
+0.3
+1155022
+Bunnies and blood
+Jump 'n Bump is a game by Brainchild Design, ported to SDL and now the Wii. Control one of 4 rabbits in a quest to stomp other rabbits on the head and make them explode in bloody bits.
+SpaceShooter 1225449813 3773 7560800 dol 2492300 0 0 ws
+Space Shooter
+PaceMaker
+0.3
+7565116
+Shoot Stuff in Space
+Space Shooter is an original 2D space shooting game. It's simple, just shoot anything that moves or shoots back. The objective is to destroy all enemies on the six levels.
+buscawiinas 1225449811 4309 438208 dol 233904 0 0 wwwws
+BuscaWiinas
+Jomofer
+0.1
+442938
+Minesweeper game
+BuscaWiinas is my own version of the famous minesweeper. The name comes from Spanish (buscaminas=minesweeper).
+MadQuiz 1220377120 11327 1766816 dol 1553672 0 0 ww /apps/MadQuiz/arts;/apps/MadQuiz/entertainment;/apps/MadQuiz/geography;/apps/MadQuiz/history;/apps/MadQuiz/misc;/apps/MadQuiz/science;/apps/MadQuiz/sports;/apps/MadQuiz/videogames
+Mad Quiz
+Nores
+0.03
+2325219
+Quiz game
+You can play alone or with a friend, and chose between diferent game modes: Normal, Survival, TimeAttack and Practice. This game show a question from the 5000 included and show the possible answers.
+wiisolitaire 1225449813 2887 1431264 dol 1037688 0 0 ws
+Wii Solitaire
+Wil
+0.4
+1434708
+Solitaire for the Wii
+Wii Solitaire is a simple version of Klondike solitaire for the Wii where the objective is to organize and move all cards to the foundation by suite from A to K.
+uno 1219858870 11997 1858976 dol 1712936 0 0 w /apps/uno/cartas;/apps/uno/cartas/deragonsu
+Uno
+kriogeN
+12
+2702692
+Uno cards game
+This is the card game Uno, 2 to 4 people can play via the Internet (or local area network). You can also play against 3 computer controlled opponents.
+wiiship 1225449813 12094 849568 dol 574457 0 0 ws
+WiiSHIP
+AcADIeN
+0.6
+862192
+Battleship clone for the Wii
+Wiiship is a battleship clone for the wii, having the ability to play against the computer or multiplayer (multiplayer mode is still under dev).
+freecellwii 1225449811 3887 465632 dol 287182 0 0 ws
+Freecell Wii
+WhoDares
+0.2
+470086
+Freecell for the Wii
+Freecell is a simple card game. It's similar to Patience/Solitaire, except that all cards are laid out at the start, and you have 4 empty "cells" to move cards to.
+kobodl 1218051308 9907 1693663 elf 7038652 0 0 wc /apps/kobodl/persistent
+Kobo Deluxe
+GC Linux Team
+0.5.1-whiite
+7204119
+A scrolling space shooter
+Kobo Deluxe is an enhanced version of Akira Higuchi's game XKobo for Un*x systems with X11. XKobo was a fastpaced multiway scrolling shoot-em-up. It was simple but clever and very addictive.
+opentyrian-Wii 1244459998 14743 1069824 dol 16152544 0 0 wwwwgnck /tyrian;/tyrian/userdata;/tyrian/popkey
+OpenTyrianWii
+Molokai
+1.2
+65398173
+Arcade-style scrolling shooter
+This is a wii adaptation of TYRIAN, the game edited by Eclipse and published by Epic MegaGames. The original game was   programmed by Jason Emery, illustrated by Daniel Cook, and its music composed by Alexander Brandon and Andreas Molnar.
+SameGame 1225449812 915 572448 dol 1651767 0 0 w /apps/SameGame/background;/apps/SameGame/themes;/apps/SameGame/ui_themes
+SameGame
+Meir Goldstein
+1.0
+1932945
+SameGame for Wii
+SameGame for Wii
+operation 1225449812 4091 1617152 dol 1034409 0 0 w /data;/data/operation;/data/operation/images;/data/operation/levels
+WiiOperation
+beardface
+1.2
+1663897
+Uh Oh! Operation!
+Drag around da bones and earn doctor points with the chicks.
+Briicks 1216990474 1697 846496 dol 669492 0 0 ws
+Briicks
+Liki
+0.1a
+848635
+Briicks
+Briicks is a simple lumines clone made for Wii only. This is an early alpha version.
+TicTacToe 1217535772 6286 1402144 dol 1157192 0 0 ws
+TicTacToe
+bmic
+1.0
+1409129
+TicTacToe game
+TicTacToe ("Jogo da Velha" in portuguese) is casual game, I have used one old code of mine to make the AI. This version used GRRLIB 3.0 optimized by me with fade in and out functions, and used others make by the community like load png from a file and save the screen.
+barrage 1225449811 18297 472000 dol 639584 0 0 w /gfx;/sounds
+Barrage
+Mindcry
+1.0
+2245078
+Target Shooting Game
+Barrage is a rather violent action game with the objective to kill and destroy as many targets as possible within 3 minutes. You control a gun that may either fire small or large grenades at soldiers, jeeps and tanks.
+chess 1225449811 11113 288224 dol 148845 0 0 wsg
+Chess
+hanse+Vader347
+0.0.2
+299866
+Port of Chess game TSCP
+Chess game with Wiimote Support. Use the D-Pad to move the square. Press A to choose a piece and press B on the spot where you want to move the peice. Press Home to return to the HBC. Wiimote by Vader347 Port by hanse.
+JQuest 1219487290 18635 942752 dol 5185680 0 0 w /apps/JQuest/level1;/apps/JQuest/level2;/apps/JQuest/level3;/apps/JQuest/level4;/apps/JQuest/level5;/apps/JQuest/level6;/apps/JQuest/level7;/apps/JQuest/level8;/apps/JQuest/level9;/apps/JQuest/level10
+JewelQuest
+MCartman
+1.0.3
+5728363
+A 3 match puzzle game
+Jewel Quest is a "3-match" puzzle game similar to Bejeweled or other tile-sliding puzzle games. It is played on a 8 x 8 square grid filled with various items like rubies, diamonds, emeralds, gold skulls, and more.
+breakout 1225449811 2645 468800 dol 249322 0 0 w /apps/breakout
+Wii Breakout
+JS Lemming
+0.01
+477579
+Breakout style game
+Old sports will enjoy this classic gameplay. This is not a full game, just something I threw together to see how wii homebrew works. Point at the screen to control the paddle. Left/Right alters paddle size. Home returns.
+missilecommand 1225449812 1609 1103008 dol 4516958 0 0 wn
+Missile Command
+ulti
+0.5a
+5099740
+Protect the homeland!
+Remake of the classic 80s arcade game with Wiimote controls.
+Tanks 1225449813 27976 525280 dol 220740 0 0 wwwwns
+Tanks
+Grillo
+0.1b
+553706
+Tanks for Wii
+Tank Battle game similar to the one that comes with WiiPlay. This version is a beta.
+bdizzy 1216990406 10727 1471488 dol 351807 89123 4 gw /bdizzy
+Bubble Dizzy
+Foxy
+0.94 Beta
+1483283
+Blip blop blup
+You must help Dizzy get to the surface by riding on the bubbles. You only have a limited amount of oxygen (although more can be collected) and if it runs out then you lose a life. You must also collect the pearls from the sea bed and ledges so that Dizzy can give Daisy a pearl necklace.
+RockPaperScissors_v02 1225449812 5751 629312 dol 451888 0 0 wws
+Rock Paper Scissors
+Forgotten Linkz
+0.3
+635468
+Play Rock Paper Scissors!
+For controls press the 1 button anytime in game, home button will quit the game.
+Touhou 1216992750 5485 1328096 dol 491917 0 0 wwns
+Touhou Wii
+SquidMan
+0.1a
+1333942
+Touhou Fangame for Wii
+A nice little Touhou Fangame using GRRLIB
+duck_hunt 1216990656 9413 2703328 dol 504618 0 0 ws
+DuckHunt
+Knight0fDragon
+1.81
+2714286
+Duck Hunt for the Wii
+Duck Hunt is a clone of the classic NES/Famicom game Duck Hunt where you shoot ducks.
+wiisudoku2 1216993048 2031 595008 dol 357122 0 0 ws
+Sudoku 2
+bmic
+0.2b
+598768
+Put numbers in the squares
+The puzzle is controlled by moving an on screen cursor. The cursor will wraparound the edges of the puzzle if you try to move past the edge.
+sudoku 1216992692 8553 830528 dol 465946 0 0 ws
+Sudoku
+DLKJ
+0.1b
+839851
+Sudoku for Wii
+Figure out the correct placement of all the numbers. This project implements a simple sudoku game on the wii. The recommended way to launch this is via the homebrew channel. Control is via the standard wiimmote (1 player only) held sideways.
+snake 1225449813 7343 4615552 dol 481752 0 0 wgs
+Snake2
+Uschghost
+2.1 beta
+4623470
+Remake of Snake
+Remake of snake for the Wii
+matching_cards 1225449811 6282 447520 dol 272345 0 0 ws
+Matching Cards
+teknecal
+0.2
+454525
+Pair up all the cards
+Pair up all the cards before the time runs out to proceed to the next level. There are 3 difficulties (easy, normal, hard) and 7 levels.
+bichejos 1225449811 4960 721824 dol 151508 0 0 wzs
+Bichejos
+nozintusei
+0.1
+727248
+Kill the bichejos
+You have to save the world.
+CharioMan 1217447170 8114 891008 dol 689284 0 0 wws
+CharioMan
+Cortes48
+2.0
+899580
+A simple Anti-Pong Game
+This is a simple anti-pong game. Your aim is to not to touch the ball. Set your wiimote in horizontal position same a NES controller. At menu,use the wiimote as a pointer.
+PONG 1216992048 4711 384064 dol 146659 0 0 wws
+PONG
+PaRaDoX
+1.1
+389254
+PONG for Wii
+This is a VERY simple game of PONG for Wii. Created from zero, it's not a port of any kind. Move the left bar with Wiimote 1, and the right one with Wiimote 2. Press PLUS to open pause the game.
+masteroids 1216991346 6095 1131584 dol 325502 0 0 wwwwgncs
+Masteroids
+Feesh!
+0.4
+1138185
+Multiplayer Asteroids
+Masteroids is a multiplayer Asteroids clone, letting you enjoy the classic arcade title with up to 3 friends (4 player). Masteroids uses almost every controller available to the Wii.
+simon 1225449813 5456 1648672 dol 382681 0 0 ws
+Simon
+teknecal
+0.3
+1654752
+Simon
+Everyones favourite memory game makes it to the Nintendo Wii.
+WiiPoker 1225449813 1556 1567968 dol 505712 0 0 wgs
+WiiPoker
+Beardface
+0.1
+1570131
+Video Poker for the Wii
+WiiPoker is an implementation of Video Poker for the Wii. It was programmed using libogc along with GRRLIB.  Also, the opencardlibrary project on sourceforge was used as the card engine. (Also programmed by beardface).
+ballion 1225449811 11839 7638496 dol 7266883 0 0 wgs
+Ballion
+Mega Man
+1.7
+7651453
+Destroy blocks with a ball
+Ballion is based on the C64`er game Crillion. Destroy blocks with a ball. Wiimote or Gamecube controller can be used. New version with sound and better graphic. You need to destroy the blocks by touching them with the ball.
+Tetris 1225449813 7473 584928 dol 279308 0 0 ws
+Tetris
+DesktopMan
+1.2
+592819
+Tetris
+Tetris for the Wii
+particleaccel 1225449812 302 351648 dol 178859 0 0 ws
+Particle Accelerator
+bubble-07
+1.0
+352452
+Dodge the Particles!
+This is the very first homebrew app I have completed. It's also the first C game I made. To play, turn the wiimote sideways. Use the up and down keys to move your character.
+asteroids 1225449811 84433 287456 dol 228704 0 0 ws
+Asteroids
+Andy
+2008.04.19
+372249
+Asteroids
+Asteroids for the Wii. Wiimote support added by para. This is a work in progress.
+RockPaperScissors 1216992074 3803 185280 dol 64162 0 0 g
+Rock Paper Scissors
+Kazart
+1.0
+189552
+RPS Game
+Don't have any friends to play some RPS with? Well this game is for you! Gamecube Pad only! Up is Rock, Left is Paper, Down is Scissors. Press start to exit.
+=Games=
+bluemsx-wii 1251431356 2974 7839296 dol 6492472 0 0 wwncks
+BlueMSX-Wii
+Tim Brugman
+1.0
+7842962
+BlueMSX port for Wii
+BlueMSX ported to Wii with game selection GUI. On first start an MSX directory will be created in the root of your SD-Card with all necessary files. Games can easily be added to the MSX/Games folder by editing .xml files
+MiiSX 1250100916 3025 1120640 dol 582552 0 0 wcks /MiiSX;/MiiSX/ROMS
+MiiSX
+SLotman
+0.4
+1138136
+MSX emulator for Wii
+This is a port of fMSX 2.7 for the Nintendo Wii. Still needing a LOT of improvements.
+pcsx-revolution 1247078166 15035 870592 dol 421597 0 0 wwncgs /pcsx-r;/pcsx-r/bios;/pcsx-r/games;/pcsx-r/memcards
+pcsx-revolution
+Firnis
+Rev28
+886208
+Playstaion One Emulator
+Playstaion One Emulator in development.
+WII7800 1246270894 8867 790880 dol 417236 0 0 wwcng /WII7800;/WII7800/roms;/WII7800/saves
+Wii7800
+raz0red
+0.2
+870809
+Atari 7800 Emulator
+Wii7800 is a port of the ProSystem emulator developed by Greg Stanton. Additional changes developed by Ludovic Jacomme aka Zx-81 (PSP port), Leonis, and gdement. Wii port by raz0red.
+UAE 1246692566 8957 3870592 dol 1309961 0 0 wwncks /uae;/uae/uaerc;/uae/floppies;/uae/harddisks;/uae/roms;/uae/saves
+UAE
+Simon Kagstrom
+3.0
+4148401
+Amiga emulator
+UAE is an Amiga emulator written by Bernd Schmidt et al, see http://amigaemulator.org. The port to Wii was done by Simon Kagstrom.
+dosbox-wii 1246415860 7143 3142496 dol 1219707 0 0 ws /DOSbox
+DOSBox Wii
+Tantric & Carl
+0.73.02
+3198402
+DOS Emulator
+Port of DOSBox to the Wii
+wiituka 1242311116 6028 1442080 dol 841619 0 0 wk /apps/wiituka/DISKS;/apps/wiituka/SAVES;/apps/wiituka/SAVES/CFG;/apps/wiituka/SCREENS
+Wiituka
+D_Skywalk
+0.98.6
+1511442
+Amstrad CPC Emulator
+WiituKa is an Amstrad CPC6128 emulator for the Wii system based on my last work Pituka for GamePark32.
+onscripter 1247431772 14484 5559840 dol 6601633 0 0 wwk /apps/onscripter/games;/apps/onscripter/games/test
+ONScripter WII
+Brian
+v07.2009a
+9275649
+Visual Novel Engine
+ONscripter is an open source clone of the japanese visual novel engine NScripter
+WiiSX 1246256746 15035 735840 dol 339984 0 0 g /PSXISOS
+WiiSX
+emu_kidid+others
+Beta 1
+751898
+A PSX emulator
+WiiSX is a port of PCSX, an PSX emulator on the port of PCSX, an PSX emulato PC, onto the Wii. Authors: tehpola, sepp256, emu_kidid
+neopopwii_TheStripper 1233657116 35645 944064 dol 652753 0 0 wnc /neopop;/neopop/roms;/neopop/saves
+NeoPOP Wii
+TheStripper
+20090203
+989408
+NeoGeo Pocket/Color Emulator
+Wiimote Support added by TheStripper. Original developers: softdev, Wxcvn, Drack, eke-eke, Askot. NeoPop emulates the SNK NeoGeo Pocket handheld console.
+scummvm 1244452533 8505 8703168 dol 5635778 0 0 wgs
+ScummVM
+ScummVM Team
+0.14.0 r41364
+12457377
+Point & Click Adventures
+ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!
+frodo 1240731102 9721 1129408 dol 696733 0 0 wwc /apps/frodo/images;/apps/frodo/saves;/apps/frodo/tmp
+Frodo
+Simon Kagstrom
+10.0
+1442402
+Commodore 64 emulator
+Frodo is a C64 emulator written by Christian Bauer. It supports C64 disk and tape images in the .d64, .t64 and .prg formats. The port to Wii was done by Simon Kagstrom.
+wii2600 1241272800 10375 2403296 dol 1001953 0 0 wwwwgck /wii2600;/wii2600/roms;/wii2600/snapshots;/wii2600/state
+Wii2600
+raz0red
+0.2
+2466261
+Atari 2600 Emulator
+Wii port of Stella 2.7.2. Stella is a multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL). Stella was originally developed for Linux by Bradford W. Mott.
+wiixl 1233995882 3625 823872 dol 439396 0 0 wwgck /wiixl;/wiixl/saves;/wiixl/software;/wiixl/software/carts;/wiixl/software/disks;/wiixl/software/tapes
+WiiXL
+raz0red
+0.1
+895658
+Atari 800/XL/XE/5200
+Wii port of the Atari800 emulator version 2.0.3. The Atari800 emulator is a free and portable Atari 800/XL/XE/5200 emulator. Originally written by David Firth and now developed by the Atari800 Developmen
+colem 1233307856 13221 767840 dol 535824 0 0 wg /roms;/roms/romscol
+Colem
+Consolius
+1.0
+782124
+Coleco emu for the Wii
+Port of Colem to the Wii. Create a directory "/roms/romscol" on the SD card. Put all your roms (.rom or .zip) in that directory including the system rom (named "coleco.rom").
+o2em 1233307930 8636 724544 dol 522828 0 0 wg /roms;/roms/romsodd
+O2em
+Consolius
+1.0
+734248
+Odyssey emu for the Wii
+Port of O2em to the Wii. Create a directory "/roms/romsodd" on the SD card. Put all your roms (.bin or .zip) in that directory including the system rom (named "o2rom.bin").
+wiihandysdl 1238231702 7459 959744 dol 478455 0 0 wc /apps/wiihandysdl/roms
+WiiHandy/SDL
+raz0red
+0.3
+1031446
+Atari Lynx Emulator
+Handy is software dedicated to emulating the Atari Lynx hardware on a standard PC. The software was originally developed by Keith Wilkins [http://handy.sf.net].
+fceugx 1248957612 8367 5529824 dol 4460665 0 0 wwwwgncs /fceugx;/fceugx/roms;/fceugx/saves
+FCE Ultra GX
+Tantric
+3.0.8
+5555718
+Nintendo Emulator
+This is a port of FCE Ultra 0.98.12 to the Wii.
+Snes9xGX 1248261850 7417 7410336 dol 4957435 0 0 wwwwgncs /snes9x;/snes9x/cheats;/snes9x/roms;/snes9x/saves
+Snes9X GX
+Tantric
+4.0.9
+7452172
+Super Nintendo Emulator
+SNES9x GX is a Super Nintendo emulator for the Wii based on the PC emulator SNES9x 1.51. SoftDev is responsible for the original SNES9x 1.50 GameCube port, whose work was  continued by crunchy2. It was updated for the Wii by michniewski and SNES9x 1.51 was ported by Tantric.
+vbagx 1248262004 10769 6201344 dol 4511474 0 0 wwwwgncks /VBAgx;/VBAgx/BIOS;/VBAgx/ROMS;/VBAgx/SAVES
+Visual Boy Advance GX
+Tantric
+2.0.6
+6246451
+GBA/GBC/GB Emulator
+Visual Boy Advance GX is a modified port of VBA-M. With it you can play GBA/Game Boy Color/Game Boy games on your Wii/GameCube.
+fuse 1232936880 5641 1842220 elf 850703 0 0 wk /apps/fuse/lib;/apps/fuse/roms;/apps/fuse/ui;/apps/fuse/ui/widget
+FUSE
+Kendall & Giesler
+Snapshot3
+3662227
+FUSE for the Wii
+FUSE is the Free Unix Spectrum Emulator. It emulates a classic home computer, the Sinclair ZX Spectrum. For more information and lots of games, go to http://www.worldofspectrum.org
+stella 1232429254 10258 6477024 dol 6407095 0 0 wwn
+Stella Wii
+Nuvalo
+2.6.1
+6495047
+Stella: Atari 2600 emulator
+Stella for Wii. This project is based on the atari 2600 opensource emulator called stella.
+hatari 1232162456 4566 2588896 dol 2226910 0 0 w /hatari;/hatari/fd;/hatari/hd
+HataWii
+yohanes
+0.0.1
+4807792
+Atari ST Emulator for Wii
+This is a port of Hatari, Atari ST Emulator. You will need to have a USB keyboard to use this application. Mouse is emulated using Wiimote.
+wiiapple 1231464856 4777 1013344 dol 534630 0 0 wgk
+WiiApple
+yohanes
+0.0.7
+1907149
+Apple IIe Emulator for Wii
+This is a port of Apple IIe Emulator based on LinApple/AppleWin. You will need to have a USB keyboard to use this application.
+genplusgx 1229800399 44558 552672 dol 596849 0 0 wwwwgnc /genplus;/genplus/roms
+Genesis Plus GX
+Eke-Eke
+1.3.1
+597891
+Sega Genesis Emulator
+This is a Sega Megadrive/Genesis emulator based on the original work of Charles Mc Donald. The code has been slightly modified to improve game compatibility and emulation accuracy as well as adding lot of extra emulation features.
+gnuboy 1229277895 40878 319872 dol 360757 0 0 wgnc /gnuboy;/gnuboy/roms
+Gnuboy GX
+Eke-Eke
+081214
+361270
+Gameboy Color Emulator
+This is a port of Gnuboy, a Gameboy and Gameboy Color emulator, originally coded by Laguna and Gilgamesh.
+hugo-gx 1229279735 45287 364128 dol 409290 0 0 wwwwgnc /hugo;/hugo/roms;/hugo/saves
+Hugo GX
+Eke-Eke
+081214
+409898
+PC-Engine Emulator
+This is a port of the PC Engine emulator Hugo!, originally coded by Zeograd. Please read hugo-gx.txt first and check http://www.tehskeen.com/forums/ for any questions and updates.
+smsplus 1229277955 48233 455776 dol 504026 0 0 wwgnc /smsplus;/smsplus/roms
+SMS Plus GX
+Eke-Eke
+081214
+504680
+Sega MS/GG Emulator
+This is a port of SMS Plus, a Sega Master System and Game Gear emulator originally coded by Charles Mc Donald. The code has been slightly modified to improve game compatibility as well as adding extra emulation features such as LightGun or Paddle emulation.
+gxgeo 1227456356 2229 1296448 dol 449713 0 0 wwgnc /gxgeo;/gxgeo/conf;/gxgeo/romrc;/gxgeo/roms;/gxgeo/save
+GxGeo
+blizzo
+20081123
+1537261
+Neo-Geo Emulator
+A Neo-Geo Emulator based on GnGeo
+REminiscence 1227018792 376 726080 dol 355050 0 0 w /apps/REminiscence/data
+REminiscence
+BigS
+0.83
+727051
+FlashBack !!!
+You need to own an original version of Flashback to play. You will need the original files, here is the required list: FB_TXT.FNT GLOBAL.ICN GLOBAL.FIB GLOBAL.SPC *.OFF *.SPR *.MAP *.PAL *.ANI *.CT *.MBK *.OBJ *.PGE *.RP *.TBN *.CMD *.POL *CINE.* Put all of them in DATA directory.
+wiiengine 1223639898 6865 752544 dol 403676 0 0 wwwwgn /roms;/roms/pcengine;/roms/pcengine/save
+Wiiengine
+Hermes
+1.5b
+759790
+PCengine Emulator
+PCengine Emulator with CDROM support based in gp2xengine and others.
+pacman 1225449812 611 458784 dol 188288 0 0 wnc /pacman;/pacman/roms
+Pacman
+A.D.Price
+1.0
+459807
+Arcade emulator
+Pacman emulator. Put roms in the directory "/pacman/roms". Supports wiimote, nunchuck and classic controller.
+yabause_ac_k 1225449814 4359 1409568 dol 381132 0 0 w /apps/Yabause;/apps/Yabause/ROMS
+Yabause by Ac_K
+Team Yabause
+Alpha1
+1414520
+Sega Saturn Emulator
+Original Source code by Team yabause - www.yabause.org - Place the bios in the same folder as the boot.elf name the bios "bios.bin" works best with European bios. Place your roms into the ROMS folder, ISO, CUE and BIN support.
+neopop 1216991778 9181 851520 dol 579369 0 0 w /neopop;/neopop/roms;/neopop/saves
+Neopop Wii
+Askot
+2008.06.21
+863702
+Neo-Geo Pocket Emulator
+NeoPop emulates the SNK NeoGeo Pocket handheld console.
+yabause 1225449814 2612 2634464 dol 539340 0 0 wg
+Sega Saturn Yabause
+Team Yabause
+Alpha1
+2637963
+Sega Saturn Emulator
+Original Source code by Team yabause www.yabause.org. Changes by Markus1981: taken out cue file support only loads the iso , took all non working stuff out of the menu.
+wii64 1216992870 11332 1127712 dol 459906 0 0 wgc /N64ROMS;/N64SAVES
+Wii64
+Wii64 Team
+Alpha
+1141358
+N64 Emulator
+This is only an early alpha release. We're still working on graphics, compatibility and speed issues. Wii64 is a port of Mupen64 to the Wii. It currently runs most games at half speed with some graphical issues.
+TrojanWii 1225449813 12678 1900544 dol 262347 0 0 wg
+TrojanWii
+Jon Conrad
+1.0
+1913900
+Trojan LCD Simulator for Wii
+Here is the Trojan LCD game simulator I wrote. I have it running on PC, OSX, NDS, Wii and the original xbox. I decided to write it using SDL so It would port easliy.
+AtaWii 1216990194 5153 3373536 dol 1018884 0 0 g
+AtaWii
+NoNameNo
+1.0b
+3380797
+Atari ST Emulator
+An atari st emulator for WII (port of the so LAME emulator castaway). The disk image I hardcoded is ST-MENU 5, an intro compilation disk from the famous OVERLANDERS.
+=Emulators=
+mplayer_ce 1250671579 5438 9911552 dol 5034070 0 0 wgns /apps/mplayer_ce/font
+MPlayer Christmas Edition
+Mplayer CE Team
+0.75
+11147838
+The Movie Player
+MPlayer Christmas Edition features cache, network, usb, smb, dvdiso, directory listing on all, etc.
+radiow 1247316428 8394 1221216 dol 1116034 0 0 w /apps/radiow/cache;/apps/radiow/imgs;/apps/radiow/pls
+WiiRadio
+scanff
+0.4
+2352663
+Radio for the Wii
+WiiRadio is a SHOUTcast stream player. It can read from thousands of internet radio streams and play them back on the Wii.
+wiimpc 1232272352 5642 745120 dol 481819 0 0 w
+WiiMPC
+sshock
+0.1b
+751251
+MPD Client for the Wii
+WiiMPC is a program that connects to your MPD music server so you can remote control your music with your WiiMote! Just set MPD_HOST=whatever in a file called wiimpc.conf.
+MPlayerWii_rodries 1228176976 9395 5896352 dol 2799425 0 0 wgcns
+MPlayer-Wii by Rodries
+rOn
+0.07
+5908288
+MPlayer for the Wii
+This is a port of MPlayer (http://mplayerhq.hu) for the Nintendo Wii. Put your video and audio files on the root folder of the SD card.
+HiivelyPlay 1227496918 5831 493088 dol 321792 0 0 w /hvltunes
+HiivelyPlay
+Xeron/IRIS
+2.0
+782900
+HVL/AHX player
+HiivelyPlay is a HivelyTracker and AHX module player. For more information about hivelytracker, visit www.hivelytracker.com
+geexbox 1240429778 6838 2611260 elf 9166215 0 0 wk /GEEXBOX;/GEEXBOX/bin;/GEEXBOX/codecs;/GEEXBOX/etc;/GEEXBOX/firmware;/GEEXBOX/i18n;/GEEXBOX/usr;/GEEXBOX/var;/GEEXBOX/etc/bluetooth;/GEEXBOX/etc/dbus-1;/GEEXBOX/etc/init.d;/GEEXBOX/etc/keymaps;/GEEXBOX/etc/lirc;/GEEXBOX/etc/modprobe.d;/GEEXBOX/etc/mplayer;/GEEXBOX/etc/udev;/GEEXBOX/etc/dbus-1/event.d;/GEEXBOX/etc/dbus-1/session.d;/GEEXBOX/etc/dbus-1/system.d;/GEEXBOX/etc/udev/rules.d;/GEEXBOX/etc/udev/scripts;/GEEXBOX/i18n/texts;/GEEXBOX/usr/share;/GEEXBOX/usr/share/alsa;/GEEXBOX/usr/share/fonts;/GEEXBOX/usr/share/mplayer;/GEEXBOX/usr/share/alsa/pcm;/GEEXBOX/var/www;/GEEXBOX/var/www/cgi-bin;/GEEXBOX/var/www/js;/GEEXBOX/var/www/style;/GEEXBOX/var/www/style/geexbox;/GEEXBOX/var/www/style/geexbox/icons;/GEEXBOX/var/www/style/geexbox/searchBox;/GEEXBOX/var/www/style/geexbox/seekBar;/GEEXBOX/var/www/style/geexbox/webmote
+GeeXboX for Wii
+farter
+0.1alpha7
+16064377
+Linux Open Media Cente
+Based on whiite-linux-0.1a and GeeXboX devel-200810; Please visit http://www.geexbox.org for detailed info on usage. Don't forget to check out the forum too!
+MPlayerWii 1223639698 12707 5867968 dol 2787574 0 0 ws
+MPlayer-Wii
+rOn
+0.07
+5882167
+MPlayer for the Wii
+This is a port of MPlayer (http://mplayerhq.hu) for the Nintendo Wii. Put your video and audio files on the root folder of the SD card.
+wiitube 1219343764 10130 5847648 dol 2774637 0 0 w
+MPlayer-Wii Youtube
+AlienMind
+0.0.1
+5859326
+MPlayer +Youtube
+MPlayer with Youtube support
+dmp 1218703132 3652 2240832 dol 3991492 0 0 w /apps/dmp/fonts;/apps/dmp/images;/apps/dmp/languages;/apps/dmp/themes;/apps/dmp/languages/dansk;/apps/dmp/languages/deutsch;/apps/dmp/languages/english;/apps/dmp/languages/italiano;/apps/dmp/languages/nederlands;/apps/dmp/languages/suomi;/apps/dmp/languages/svenska;/apps/dmp/themes/Dark-Ice;/apps/dmp/themes/Default;/apps/dmp/themes/Xbmc;/apps/dmp/themes/Dark-Ice/fonts;/apps/dmp/themes/Default/fonts;/apps/dmp/themes/Xbmc/fonts
+DragonMedia Player
+DragonMinded
+0.16 Alpha
+5767768
+Media player for your Wii
+A media player for the Wii which allows for audio playback from SD or USB.
+mplayer 1219519210 6497 5686048 dol 2903831 0 0 wg /apps/mplayer/font
+MPlayer
+Team Twiizers
+rev 27458
+6545087
+The Movie Player
+MPlayer - dvdlib edition
+MiniMP3Player 1225449812 8632 1074400 dol 235686 0 0 w /MUSIC
+Mini MP3Player
+nIxx
+0.2
+1083507
+Mini MP3Player
+Mini MP3 Player is a basic MP3 Player with Wiimote and FrontSD support. Create a MUSIC folder in your SD Card Root and put your mp3 or directories in it.
+mfe-wii 1225449812 5678 2204356 dol 8174325 0 0 g /mfe
+Wii MFE Port
+nuvalo
+1.1
+8207672
+Media player
+MFE-Wii is an MPlayer Front-End for the Wii, using Wii-Linux 8/4/2008. MFE-Wii provides a front-end controlled by a Gamecube control pad and allows you to play media files directly from the SD Card on your Wii.
+=Media=
+WiiRecipe 1251259582 5381 220512 dol 110956 0 0 ws
+WiiRecipe
+CalThePhenom/Wack0
+0.2
+226378
+Prints ingredients
+Prints ingredients for certain recipes to the screen. It's just taken from the devkitppc examples. Fixed by Wack0, older versions didn't work
+WiiExplorer 1250989021 7210 1680384 dol 977401 0 0 wgs
+WiiXplorer
+dimok
+r35
+1688925
+Multi device file explorer
+A multi device file explorer for the Wii by dimok and r-win with a GUI made with LibWiiGui by Tantric with graphics by NeoRame
+oslm 1249898991 7414 226272 dol 116623 0 0 wgs
+Open Sram Lang Modifier
+Suloku
+4
+235114
+Modify Sram Language
+With this you can play PAL GC games on a NTSC system with your desired language and also modify the Mono/Stereo setting for gamecube games. This is a clone of emu_kidid's sram language modifier 1.1 and it has the same features.
+Savegame_Manager 1245031976 9108 527872 dol 330396 0 0 ws
+Savegame Manager
+Waninkoko
+1.0 Alpha 3
+538169
+Extract or install savegames
+Savegame Manager is an application that allows you to extract or install savegames on your Wii. It supports games that cannot be copied using the System Menu's Data Management.
+ChristmasCountdown 1230975348 5962 1524640 dol 1262620 0 0 w
+Christmas Countdown
+PaceMaker
+0.1
+1531054
+Countdown until Christmas
+How long until Christmas? A, B - Change the displayed units. Home Button - Return to Loader
+signCheck 1247575254 3456 244576 dol 131069 0 0 ws
+signCheck
+The Lemon Man
+0.3a
+248630
+IOS sanity check
+signCheck is a homebrew application which does several check on your wii IOS, can check if fakesigning (aka trucha bug) can be used, if nand, usb 2 ios tree or boot2 ios tree is accessible by that ios. Will output a .csv log named signCheck.csv.
+Bootmii_cfg_ed 1249800866 73562 493888 dol 338426 0 0 ws
+BootMii Configuration Editor
+Pembo
+2.4
+588377
+Change BootMii settings
+BootMii configuration editor allows you to change the values in the /bootmii/bootmii.ini file without having to take out the SD card and edit it on a PC.
+txted_mod 1244004622 1498 461312 dol 242156 0 0 w
+txtEd Mod
+Freigeist
+1.0
+463286
+Text Editor (Mod of TxtEd)
+This is a Mod of TxtEd. Controls: point and click to select file or use keyboard. dpad: RIGHT moves cursor foward fast, LEFT moves cursor back one space, DOWN advances screen one page, UP returns to start of file.
+resistorwii 1243778828 4809 889344 dol 608799 0 0 ws
+Resistor Wii
+crazygoth
+1.0
+894508
+Calculate resistance values
+Calculate the value resistance for a resistor.
+cheatmanager 1239504456 6365 458624 dol 262366 0 0 ws /txtcodes;/codes
+Cheat Manager
+SpriteZ
+0.3
+525157
+Cheat code manager
+Cheat Manager is an homebrew that allows you to generate GCT file from text files. Allows you edit text code. List txt file on sd card.
+playstats 1242697670 9283 341984 dol 352005 0 0 ws
+Playstats
+chris
+1.02
+352599
+Wii playtime history stats
+A utility to analyse the play history on the Wii (shown under Today's Accomplishments on the Wii Message Board). Show such stats for each game/channel, including total time played, total number of times played, average time played, first and last time played.
+wufe 1240105211 4621 258688 dol 205340 0 0 ws
+Wii Update File Extractor
+Nuke
+0.1
+265025
+Extracts update files
+Extracts all the update files from any Wii DVD Game to SD Card
+Gecko18 1248956796 14473 509096 elf 435336 0 0 wgcs
+Gecko OS 1.9
+Nuke/brkirch
+1.9.2
+535028
+Gecko OS 1.9
+Modified by brkirch to add new features. Controls: Use Wii Remote D-Pad, Gamecube Pad or Classic Controller Pad. Region Free options can be set with the config menu before launching the game.
+codedownloader 1249796744 10702 483403 elf 242929 0 0 w /txtcodes
+Code Downloader
+linus
+1.5
+1212262
+Get WiiRD txt code files
+Get WiiRD txt code files. Saves to sd: /txtcodes/. Thanks www.usbgecko.com, wiird.l0nk.org and Slimjim8094
+Alarmii 1236266020 6685 872384 dol 651978 0 0 ws /apps/Alarmii/sounds
+Alarmii
+blitter
+1.0
+964800
+A count down/up timer
+It is a timer/alarm clock. Features: Alarm clock, Countdown timer, Interval alerts, Customizable sound samples (keep them small as SD card loading is a little slow) and Audio and Visual alerts
+lsusb 1236109846 4261 294496 dol 279228 0 0 w
+lsusb
+Brian
+0.1
+658043
+Dumps USB info
+Dumps USB descriptor infomation
+wiiwebserver 1244939922 6462 342176 dol 177093 0 0 wgnk /data;/data/web;/apps/wiiwebserver/data;/apps/wiiwebserver/data/settings
+Wii Web Server
+Cboomf+Felix123
+alpha v1.10
+349521
+Serves web-pages
+Place your html files in /data/web/ on the root of your sd card, must be inserted before the app is loaded. Use data.zip for demo files. There is no directory listing and your homepage must be called "index.html"
+dvdinstl34 1234949016 12948 158304 elf 167488 0 0 ws
+DVDx Installer 3.4
+svpe
+1.0
+171729
+Allows DVDs to be played
+The DVDX installer will install a small, hidden, channel on your Wii that allows you to read DVDs on an unmodified system. Just follow the onscreen instructions to install. This version is for v3.4.
+wiicm 1234751972 7963 975584 dol 565696 0 0 w
+wiicm
+linus
+1.1
+986900
+Code Manager
+Select codes from .txt and convert to .gct for use with GeckoOS\WiiRd\Ocarina. Works with Code Downloader. Writes to /codes/.
+Topedit 1234666508 3841 603264 dol 228693 0 0 wk
+TopEdit
+Georg Potthast
+0.5
+607509
+Text Editor for the Wii
+A Text Editor using SDL featuring virtual keyboard and external keyboard support.
+loadmii 1233294438 5743 608864 dol 315666 0 0 wgcns
+loadMii
+The Lemon Man
+0.3
+615205
+load !t
+loadMii is a small but powerful loader which can run executables from SD cards, USB sticks, SMB shares, USB Gecko and SD Gecko. It's composed by 3 parts : the loader itself, the reloading stub and the bootstrapper. I want to say so many thanks to dhewg and his geckoloader.
+WiiEarth 1244263666 9090 517344 dol 284043 0 0 ws
+WiiEarth
+PaulWagener
+2.2
+526908
+Browse the world
+Use the Wiimote to browse through satellite imagery
+leveltool 1232461634 12122 927456 dol 596529 0 0 ws
+Leveltool
+Alanceil
+0.5
+941733
+A level tool
+Put the wiimote on a surface you want to use as a reference and press A. This will start a calibration for minimum and maximum values of your Wiimote, afterwards you can put it on a target surface to see the difference in inclination.
+ftpii 1240737630 4380 534464 dol 272462 0 0 gws
+FTPii
+joedj
+0.0.19
+546271
+An FTP server
+ftpii is an FTP server. To exit, hold A on controller #1 or press the reset button. To remount a device, hold B on controller #1. A working DVDx installation is required for the DVD features.
+boot-it 1231677968 832 2661696 elf 3610042 0 0 wk
+Boot it!
+Nuvalo
+1.0
+4655441
+Wiilinux filesystem loader
+Boot it! is a wii-linux kernel with a small ramdisk that will let you boot any filesystem prepared to run on wii, installed on any device. This means that you can boot a filesystem installed on a usb device, on a SD-Card, or a filesystem image in a SD-Card or USB device.
+gcmm 1230710040 7489 1520928 dol 429338 0 0 wg
+GCMM
+Suloku
+1.0
+1528891
+Memory Card Manager
+A memory card manager for Wii/GC
+metronome 1230695550 3106 532544 dol 276977 0 0 ws
+Metronome
+Westy92
+1.2
+536119
+A Metronome for the Wii
+This is the first metronome ever coded for the Nintendo Wii. Using this application, you can keep a steady tempo while practicing an instrument.
+txted 1230428542 9511 687349 elf 342716 0 0 w
+txtEd
+linus
+1.0
+697294
+Text Editor
+Point and click to select file or use keyboard. dpad: RIGHT moves cursor foward fast, LEFT moves cursor back one space, DOWN advances screen one page, UP returns to start of file
+hdl 1228576478 6134 237024 dol 120599 0 0 ws
+Homebrew Disc Loader
+Sierradev
+0.3
+244064
+Load homebrew from disc
+Load homebrew applications from regular ISO9660 DVDs using this program. Make sure the programs are named boot.dol. You can have more than one program on a disc, just put them in different directories (subdirectories are allowed too).
+wiireader 1226901118 1388 818944 dol 411806 0 0 w
+Wiireader
+Hermes
+1.1
+820737
+jpg/txt/ogg/mp3 Reader
+Application to read comics (.jpg), books (.txt/ zipped .txt) and play music (.mp3/.ogg)
+libwiigameload 1226684247 9667 8589632 dol 120848 0 0 ws
+LIBWiiGameLoad
+CashMan
+0.1
+8599659
+Launch your Wii Game
+Launch your Wii Game like the Disc Channel!
+wiicalc 1225670118 4049 556480 dol 339362 0 0 ws
+WiiCalc
+PaceMaker
+0.1
+561058
+A Wii Calculator
+Calculator for the Wii. Point at the buttons with the Wii Remote and use (A) to select the button.
+sdexplorer 1223639746 11270 529984 dol 526808 0 0 w /config;/config/images
+SDExplorer
+miom
+1.0b
+808168
+Explore your SD card
+You can do some file operations on your sdcard: create directories, delete directories recursively, create empty files, delete files, move and rename dirs and files and copy files.
+txt-read 1223044468 1354 570464 dol 268409 0 0 w
+txt-read
+Muzer+CraZzy
+1.1
+572716
+A text file viewer
+A text file viewer with many features.
+geckoos_cf 1222319384 8181 404480 dol 353750 0 0 w
+Gecko OS
+Nuke
+1.07b
+413272
+Gecko OS 1.07b
+Controls: Use Wii Remote D-Pad or Gamecube Pad in the first port. Region Free options can be set with the config menu before launching the game.
+GCBooter 1220376784 1053 135360 dol 68618 0 0 gs
+GCBooter
+emu_kidid
+1.0
+136827
+Boots GC Games
+This is just a simple example to allow users to boot Gamecube games (original discs only kthx) on their Nintendo Wii via the homebrew channel. It is also region free.
+dvdinst 1219519088 9515 234528 dol 123621 0 0 ws
+DVDx Installer
+Erant
+1.0
+244491
+Allows DVDs to be played
+The DVDX installer will install a small, hidden, channel on your Wii that allows you to read DVDs on an unmodified system. Just follow the onscreen instructions to install.
+MenuLoader 1218352154 6862 236768 dol 120235 0 0 ws
+Wii Menu Loader
+Team Twiizers
+0.5
+244220
+Wii Menu Custom Bootloader
+A simple program that reboots the Wii with a custom setup. Options Include: Debugging Mode (via USBGecko), RegionFree Mode for Wii Channels, RegionFree Mode for Wii and Gamecube discs, No Music in the Wii Menu, IOS selection to choose any version of the Wii system menu, etc.
+NuGaSa 1218051328 5839 914656 dol 492693 0 0 w /GCSAVES
+NuGaSa
+nIxx
+0.1
+921257
+Backup/Restore GCI Files
+NuGaSa is a tool to backup your GC Save Files on Front SD or restore your or downloaded GC Save Files from Front SD. Press 1 to backup a savegame. Press 2 to restore a savegame. The savegame backups will be stored in /GCSAVES.
+ocarina 1225449812 8598 263008 dol 213153 0 0 w
+Ocarina
+Link
+1.0
+272544
+Ocarina Cheating application
+Ocarina is an application allowing you to use cheat codes on your Nintendo Wii. Bundled in the download pack you'll find a PC client (wii Cheat Code Manager) which allows you to select cheat codes and store the cheat lists on your SD card.
+wiihttpd 1225449813 3768 293056 dol 151893 0 0 w /www
+Wiihttpd
+teknecal
+0.0.2
+297503
+HTTP Server
+A simple multi-threaded HTTP Webserver for the Wii. Wiihttpd is built on the ftpii source code. Create a /www directory on the root of your SD card and place any files you would like to be served in there.
+wiibsrvr 1225449813 3056 275328 dol 143666 0 0 w /wiibsrv;/wiibsrv/htdocs
+WiiBServer
+Jay
+0.1
+280727
+Tiny unfinished web server
+WiiBServer is a small and unfinished HTTP/1.0 server, used to test networking functions on the Wii. It loads resources from the front sd card.
+wiiwhiteboard 1225449813 6267 316576 dol 127693 0 0 ww
+WiiWhiteboard
+Bg
+0.2b
+323338
+Interactive Whiteboard
+Use two Wiimotes and an infrared pointer to make an interactive whiteboard. This is a port of Johnny Chung Lee's Low-Cost Multi-point Interactive Whiteboards Using the Wiimote to the Nintendo Wii.
+mii-installer 1210396174 10444 141760 dol 82273 0 0 g
+Mii Installer
+Waninkoko
+1.1
+152737
+Installs dumped Miis
+Create a directory called "miis" in the root of a SD card. Copy the Miis you want to install in the directory created in the previous step. Run this application and all your Miis will be copied from the SD card to your Wii
+mii-extractor 1210241662 11030 141120 dol 82628 0 0 g
+Mii Extractor
+Waninkoko
+1.1
+152562
+Extracts all your Miis
+Just run this application and all your Miis will be copied to the "miis" directory at the SD card.
+save-extractor 1225449812 4670 144160 dol 77814 0 0 g
+Savegame Extractor
+Waninkoko
+2.0
+149241
+Dumps saves from your Wii
+Run this application. Insert the game DVD and press RESET or A button (Wiimote not supported).
+save-installer 1225449812 4662 146528 dol 78520 0 0 g
+Savegame Installer
+Waninkoko
+2.0
+151756
+Installs dumped Wii saves
+Copy the savegame you want to install to the SD card (directory "wiisaves/<game id>", just keep the directory structure created by the "Savegame Extractor"). Insert the game DVD and press RESET or A button (Wiimote not supported).
+Sd2gc 1225449812 5018 158496 dol 85196 0 0 g /gc_saves
+Gamecube Saver
+dasda
+0.1
+164784
+Copy GC save to GC Memcard
+This application allows you to copy a Gamecube save file from the front SD slot to either your Slot A or Slot B Memory card.
+Rebooter 1209647114 8769 88288 dol 52819 0 0 gs
+Rebooter
+SquidMan
+1.0
+97701
+Reboot your Wii
+Press Z to return to the loader. GameCube Z Button. Press R to reboot. GameCube R Trigger.
+=Utilities=
+firewii 1250747267 10536 251872 dol 132985 0 0 ws
+FireWii
+Jespa
+1.0
+262897
+Fire animation demo
+It is always nice to sit by the warm fire in the living room, so I wrote this to my loved wife. Programmed by Jespa in 2009, based on Asphyxia VGA tutorial #19.
+FiSSION 1232801300 3473 398176 dol 9491654 0 0 ws /data;/data/FiSSION;/data/FiSSION/maps;/data/FiSSION/shared;/data/FiSSION/sky;/data/FiSSION/maps/gulch;/data/FiSSION/maps/zanzibar;/data/FiSSION/maps/gulch/textures;/data/FiSSION/maps/zanzibar/textures;/data/FiSSION/shared/fonts;/data/FiSSION/shared/ui;/data/FiSSION/sky/cloudtop;/data/FiSSION/sky/miramar;/data/FiSSION/sky/stormydays
+FiSSION Engine Project
+PunMaster
+0.01
+9791410
+Public Demo v0.01
+FiSSION is a homebrew 3D game engine being developed for the Nintendo Wii. Its goal is to allow homebrew developers the opportunity to develop studio-quality games without the massive upfront investment of writing a game engine to support their content.
+wiiconnect 1247925324 11130 8329664 dol 7606983 0 0 ws
+WiiConnect
+JSMaster
+Demo 4
+8341433
+WiiConnect demo
+WiiConnect is a tool to connect Wii users to each other, without the hassle of Nintendo's "safe" crap. It will eventually be able to do many things.
+turnip 1247138816 4210 494784 dol 283494 0 0 ws
+Turnip
+Conanac
+0.1
+500134
+Turnip price reader
+A simple application for reading turnip prices stored in animal crossing city folk gamesave file and a derived game for transforming turnips to bags of bells. Extract the game save file using Waninkoko's Savegame Extractor.
+FMyLife 1245951520 3231 952096 dol 535579 0 0 ws
+FMyLife
+rosch
+0.2
+955791
+View stories from FMyLife.com
+FMyLife viewer downloads recent and random stories from FMyLife.com for your viewing pleasure. It's funny until it happens to you!
+balancetools 1244864784 10258 1674144 dol 1430192 0 0 ws /apps/balancetools/images
+Balance Board Tools
+elisherer
+1.0
+2627805
+Quick Wii Board Tools
+A work in progress, a quick way to weigh yourself and find your center of gravity.
+libmii-example 1237939180 3639 228448 dol 115716 0 0 ws
+Libmii Example
+mjbauer95
+0.1alpha
+232449
+Example of libmii
+An example of libmii. It shows each Mii entry as a name.
+HMPreview 1237353008 4013 1197216 dol 805937 0 0 ws
+HOMEbrew Menu Demo
+Arikado + others
+Demo2
+1201896
+Demo of Homebrew Menu
+The HOMEbrew Menu Standard Library is a simple code library that allows developers to easily incorporate a HOME menu similiar to Nintendos into their applications. Authors: Arikado, Pinball Wizard, WarpedFlash
+GRRLIB40-DEMO 1236153136 3157 1281184 dol 951654 0 0 ws
+GRRLIB 4.0 Demo
+NoNameNo
+4.0.0
+1284778
+A GRRLib 4.0 presentation
+Here is the so waited GRRLib 4.0 Demo. It's a little presentation of some GRRLib 4.0 capabilities. Hope you will like it. More info http://grrlib.santo.fr
+WiiStrobe 1230215938 6829 234656 dol 122604 0 0 ws
+WiiStrobe
+Pinecone
+0.0.2
+242567
+Turn your TV into a strobe light
+Hold a disco in your living room! This adjustable strobe-light app will turn your Wii and TV into a seriously cool strobe light!
+automatii 1227950592 3647 234720 dol 117970 0 0 w /apps/automatii/data
+Automatii
+Gabriel Barros
+1.2
+238993
+Game Of Life
+Celular Automata Simulation
+wiilax-minitro 1227104412 1295 624512 dol 380910 0 0 ws
+Wiilax MiniTro
+NoNameNo
+Final
+626180
+A minitro to Wiilax MegaDemo
+Just to promote the soon coming Wiilax megaDemo
+mandelbrot 1225174520 4928 238752 dol 111507 0 0 ws
+Mandelbrot
+krupkat
+1.1
+244353
+Mandelbrot Generator
+This is a Mandelbrot set generator, you could have seen them on other platforms as well e.g. FractInt for PC.
+wmlflash 1225449813 4077 362464 dol 204351 0 0 wwww /data
+Wiimote LED Flasher
+mdm2k
+0.1b
+378653
+Flashes LEDs in sequence
+This is just a little novelty program that flashes the wiimote LEDs in a sequence reminiscent of a certain famous car from the 1980s. Supports up to 4 wiimotes.
+WiiLife 1231565066 1554 234656 dol 115739 0 0 ws
+WiiLife
+drei000
+2008.07.25
+236946
+Cellular automata
+The Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is the best-known example of a cellular automaton. The game is actually a zero-player game, meaning that its evolution is determined by its initial state, needing no input.
+Headtracking 1225449811 14343 1357440 dol 1196944 0 0 wws
+Headtracking
+PaulWagener
+1.0
+1372386
+Headtracking Demo
+Demo inspired by Johnny Chung Lees YouTube video of headtracking. Put the Wiimote by your TV-set while you hold the sensorbar above or under your head. The image will zoom and pan around as you move in front of the TV.
+PlanetHively 1216992034 9196 917312 dol 200717 0 0 ws
+Planet Hively
+IRIS & Up Rough
+1.0
+927212
+HVL Musicdisk
+Planet Hively is a musicdisk containing all the songs entered into the first hivelytracker.com competition. It has been ported to over 40 platforms. The Wii version is special. All the other versions of Planet Hively are plain SDL recompiles, and software rendered.
+wiilight 1216992910 3866 202560 dol 101099 0 0 ws
+Wiilight
+Bool
+1.0
+206808
+Control your disc slot light
+Example controlling disc slot light (simple fading effect using PWM)
+DrawingBox 1216990614 6876 637152 dol 335053 0 0 w
+Drawing Box
+Bool
+1.0b2
+644562
+Boxes and physics
+Draw boxes and let physics make the rest.
+Box2DBalls 1216990454 2182 623744 dol 328907 0 0 w /apps/Box2DBalls/data
+Box2D Balls
+0xtob
+1.0
+634399
+Physics for the Wii
+Box2D + Wiimote = Fun! Press A to create Balls. Hold B and tilt the Wiimote to adjust gravity. Press 1 to clear the screen. Thanks to Erin Catto for Box2D!
+ExistenzE 1225449811 13585 2703712 dol 1740949 0 0 ws
+ExistenzE
+NoNameNo
+Final
+2717686
+A Jochen Hippel Tribute
+More than Ten hours of soundchip from the best ATARI/AMIGA musician ever.
+RayTracer 1225449812 2985 273376 dol 135446 0 0 ws
+WiiRayTracer
+TheBlasphemer
+1.0
+277404
+Paints silly bubbles
+It paints silly bubbles on your screen.I wanted to experiment with Wii development, and figured something nice to start off with would be to port a raytracing engine I had made earlier for university work.
+WiimoteDemo 1225449813 2623 269056 dol 119494 0 0 ws
+WiiMotionDemo
+shdwcoder
+1.5
+272496
+Demo reading accelerometers
+WiiMotionDemo is a simple demo that shows the current reading of the Wiimote accelerometers.
+WiiPaint 1225449813 4714 957312 dol 136428 0 0 ws
+WiiPaint
+Kontakatilu
+1.0
+962549
+Drawing with your Wii
+After starting the application, press 1 + 2 to sync your Wii Remote. Choose a color from the toolbox by pointing your cursor at the desired color and pressing A. To draw, hold A and move the Wii Remote.
+mtp 1225449812 16953 363424 dol 160688 0 0 ws
+Move The Pussy Demo
+NoNameNo
+2.0
+381521
+A wiimote IR tracking demo
+One of the first Wii demos. Press "1" and "2" once to sync your remote. Wait for the rumble (or the first led). Then press the following Down, Right, Up, Left
+=Demos=

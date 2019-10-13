@@ -1,0 +1,7 @@
+SRB2Wii 1236557632 0 0 elf 0 <*> ws /srb2wii
+SRB2Wii
+Callum
+2.0.0 RC4
+***
+A 3D Sonic fangame
+Sonic Robo Blast 2 is a 3D fangame by a small group called Sonic Team Junior, using the Doom engine as a base. The game has been worked on for almost 11 years so far, and it is still being very much developed today, with a huge fanbase developing custom content.
